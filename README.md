@@ -1,4 +1,4 @@
-# 🚢 Titanic Dashboard — Portada del proyecto
+# 🚢 Titanic Dashboard
 
 **Primer proyecto del bootcamp _CSIC Data&IA_ — Upgrade-Hub**
 Este repositorio contiene un dashboard interactivo desarrollado en **Streamlit** para realizar un Análisis Exploratorio de Datos (EDA) sobre el dataset del Titanic. Este trabajo corresponde al primer desafío práctico del bootcamp *CSIC Data&IA* de Upgrade‑Hub y fue diseñado para ofrecer una experiencia clara, reproducible y enfocada en la visualización de hallazgos.
